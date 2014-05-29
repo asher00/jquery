@@ -1,17 +1,3 @@
-asdf
-as
-
-asdfasdfasdfasdlfjaslkfdjalj
-
-222222
-
-33333
-
-
-
-asldkfjlkasdjfklsajdf
-asdfkasdflkasjl
-test!!!
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
